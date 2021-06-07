@@ -12,7 +12,7 @@ html {
 
 * {
     box-sizing: border-box;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Roboto Mono', sans-serif;
 
 }
 
@@ -284,6 +284,3 @@ p.w3lparahny {
         letter-spacing: 1px;
     }
 }
-
-
-/* -- //Responsive code -- */
