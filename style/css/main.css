@@ -120,7 +120,7 @@ body {
 }
 
 .w3l-main {
-    background: url(https://webspro.horain.net/CDN/demo/index/images/bg.jpg) no-repeat center;
+    background: url(https://api.kdcc.cn/img/rand.php) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
