@@ -12,7 +12,7 @@ html {
 
 * {
     box-sizing: border-box;
-    font-family: 'Roboto Mono', sans-serif;
+    font-family: 'Roboto Mono', monospace;
 
 }
 
@@ -116,8 +116,7 @@ body a:hover {
 /*/////////////// GLOBAL STYLES ////////////////////*/
 
 body {
-    font-family: 'Roboto Mono', sans-serif;
-
+    font-family: 'Roboto Mono', monospace;
 }
 
 .w3l-main {
